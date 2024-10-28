@@ -1,0 +1,11 @@
+*.out
+*.exe
+*.bin
+*.o
+*.a
+*.so
+
+build/
+bin/
+
+.vscode
